@@ -1,6 +1,6 @@
 <h1 align="center"> Hi, I'm Öykü👋 </h1>
 <p align="center">
-  <i>A passionate software developer who yearns for creative & diverse work. 
+  <i>A passionate software engineer who yearns for diverse & impactful work. 
   🎓Computing Science BSc at Radboud University</i>
 </p>
 
